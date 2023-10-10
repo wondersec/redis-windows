@@ -1,4 +1,4 @@
-### [English](https://github.com/redis-windows/redis-windows/blob/main/README.en.md) | [简体中文](https://github.com/redis-windows/redis-windows/blob/main/README.md)
+### [English](https://github.com/wondersec/redis-windows/blob/main/README.en.md) | [简体中文](https://github.com/wondersec/redis-windows/blob/main/README.md)
 
 # Redis Windows Version
 ### With the powerful automated building capability of GitHub Actions, we can compile the latest version of Redis for Windows system in real-time. 
@@ -41,11 +41,7 @@ sc.exe delete Redis
 ![image](https://user-images.githubusercontent.com/515784/215540157-65f55297-cde2-49b3-8ab3-14dca7e11ee0.png)
 
 
-Project Home: https://github.com/redis-windows/redis-windows
-
-## Acknowledgement: 
-[![NetEngine](https://avatars.githubusercontent.com/u/36178221?s=180&v=4)](https://www.zhihu.com/question/424272611/answer/2611312760) 
-[![JetBrains Logo (Main) logo](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg)](https://www.jetbrains.com/?from=redis-windows)
+Project Home: https://github.com/wondersec/redis-windows
 
 
 ## Disclaimer
